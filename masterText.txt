@@ -4,7 +4,7 @@ This file was created on the master branch
 3. more develop branch
 4. This is from develop branch
 5. Second commit
-6. 
+6. Feature 1 adds this line
 7. 
 8. 
 9. 
