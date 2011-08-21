@@ -6,6 +6,6 @@ This file was created on the master branch
 5. Second commit
 6. Feature 1 adds this line
 7. 
-8. 
+8. Master 2 changes
 9. 
-10.
+10. Master changes line 10
