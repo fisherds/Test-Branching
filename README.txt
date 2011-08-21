@@ -6,6 +6,6 @@ This is just a test to play with branching and rebase
 5.
 6.
 7.ssfd
-8.
+8. topic 3
 9.
 10.
