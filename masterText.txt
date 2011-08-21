@@ -6,6 +6,6 @@ This file was created on the master branch
 5. Second commit (final master)
 6. Feature 1 adds this line
 7. Master is full last test
-8. Master 2 changes
+8. Master 2 changes (with merge)
 9. More master changes
 10. Master changes line 10
