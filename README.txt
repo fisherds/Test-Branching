@@ -4,7 +4,7 @@ This is just a test to play with branching and rebase
 3. readChange
 4. topic2
 5.
-6.
+6. local master change
 7.ssfd
 8. topic 3
 9.
